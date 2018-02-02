@@ -1,0 +1,11 @@
+﻿<Application x:Class="WpfProjectTemplate.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:di="clr-namespace:WpfProjectTemplate.DI"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <di:ViewModelLocator x:Key="ViewModelLocator"/>
+
+    </Application.Resources>
+</Application>

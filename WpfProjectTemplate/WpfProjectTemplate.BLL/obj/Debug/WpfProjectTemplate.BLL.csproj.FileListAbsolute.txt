@@ -1,0 +1,6 @@
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.BLL\bin\Debug\WpfProjectTemplate.BLL.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.BLL\bin\Debug\WpfProjectTemplate.BLL.pdb
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.BLL\obj\Debug\WpfProjectTemplate.BLL.csproj.CoreCompileInputs.cache
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.BLL\obj\Debug\WpfProjectTemplate.BLL.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.BLL\obj\Debug\WpfProjectTemplate.BLL.pdb
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.BLL\obj\Debug\WpfProjectTemplate.BLL.csprojResolveAssemblyReference.cache

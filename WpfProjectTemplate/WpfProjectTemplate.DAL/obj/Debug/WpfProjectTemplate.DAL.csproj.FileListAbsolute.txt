@@ -1,0 +1,15 @@
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\obj\Debug\WpfProjectTemplate.DAL.csprojResolveAssemblyReference.cache
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\obj\Debug\WpfProjectTemplate.DAL.csproj.CoreCompileInputs.cache
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\WpfProjectTemplate.DAL.dll.config
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\WpfProjectTemplate.DAL.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\WpfProjectTemplate.DAL.pdb
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\AutoMapper.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\EntityFramework.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\WpfProjectTemplate.BLL.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\WpfProjectTemplate.BLL.pdb
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\AutoMapper.xml
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\EntityFramework.xml
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\obj\Debug\WpfProjectTemplate.DAL.dll
+E:\Шаблони\WPF\WpfProjectTemplate\WpfProjectTemplate.DAL\obj\Debug\WpfProjectTemplate.DAL.pdb
